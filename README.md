@@ -29,7 +29,6 @@
 - 🔭 I’m currently working on a startup
 - 🌱 I’m currently learning Machine Learning and Reactjs
 - 👯 I’m looking to collaborate on AI/Frontend projects
-- 🤔 I’m looking for help with your projects
 - 💬 Ask me about anything
 - 📫 How to reach me: elamri.hamza@outlook.fr
 - 😄 Pronouns: HE/Hamza Elamri
