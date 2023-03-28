@@ -31,6 +31,6 @@
 - 👯 I’m looking to collaborate on AI/Frontend projects
 - 💬 Ask me about anything
 - 📫 How to reach me: elamri.hamza@outlook.fr
-- 🌐 my portfolio: helamri.net
+- 🌐 my portfolio: [helamri.net](helamri.net)
 - 😄 Pronouns: HE/Hamza Elamri
 - ⚡ Fun fact: open minded
