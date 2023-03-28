@@ -19,7 +19,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br>
-  <a href="https://github.com/helamri"><img src="https://img.shields.io/github/followers/m-agoumi?label=Follow&style=social"></a>
+  <a href="https://github.com/helamri"><img src="https://img.shields.io/github/followers/helamri?label=Follow&style=social"></a>
 </p>
 <!--
 [LinkedIn]:https://www.linkedin.com/in/helamri
