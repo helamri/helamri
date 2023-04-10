@@ -2,7 +2,7 @@
 <!--[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=helamri)](https://github.com/mohouyizme/1337-readme)-->
 <div align="center">
   
-  [![magoumi's 42 stats](https://badge.mediaplus.ma/greenbinary/helamri)](https://github.com/oakoudad/badge42)
+  [![helamri's 42 stats](https://badge.mediaplus.ma/greenbinary/helamri)](https://github.com/oakoudad/badge42)
 
 
 <a href="https://github.com/helamri?tab=repositories">
